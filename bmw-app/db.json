@@ -1,0 +1,23 @@
+{
+  "cars": [
+    {
+      "name": "Audi",
+      "image": "https://www.thedrive.com/uploads/2023/06/26/L1840687.jpg?auto=webp&width=2000&height=1125",
+      "model": "RS6 Avant ",
+      "Year": "2019",
+      "Price": "102,000",
+      "Mileage": "22,000",
+      "id": 11
+    },
+    {
+      "name": "Bmw m3",
+      "image": "https://images.classic.com/vehicles/bb235e54290c520a585f79987e9c22f6cc610562?auto=format&fit=crop&ar=16:9",
+      "model": "f80",
+      "Year": "2022",
+      "Price": "77,000",
+      "Mileage": "4,000",
+      "id": 12,
+      "likes": 2
+    }
+  ]
+}
